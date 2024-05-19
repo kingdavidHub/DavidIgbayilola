@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Redux, Sequilize ORM, Chakra UI**
 
-- 💬 Ask me about **React, tailwind, sass, node.js**
+- 💬 Ask me about **React, tailwind, scss, node.js**
 
 - 📫 How to reach me **kingigbayilola@gmail.com**
 
