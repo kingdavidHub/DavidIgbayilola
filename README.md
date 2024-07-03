@@ -28,4 +28,4 @@
 <br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingdavidhub&" alt="kingdavidhub GitHub Streak" /></p>
 
-<img src="https://github.com/kingdavidHub/kingdavidHub/blob/output/github-contribution-grid-snake.svg" />
+
