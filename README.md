@@ -8,8 +8,9 @@
 - 💬 Ask me about **React, tailwind, scss, node.js**
 
 - 📫 How to reach me **kingigbayilola@gmail.com**
+  
+<!-- - ⚡ Fun fact **I love reading books** -->
 
-- ⚡ Fun fact **I love reading books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
